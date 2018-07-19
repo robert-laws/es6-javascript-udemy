@@ -16,3 +16,5 @@ numbers.forEach(function(number) {
 
 total; // 55
 ```
+
+2. ...

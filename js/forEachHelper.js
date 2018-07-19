@@ -1,7 +1,7 @@
 // Array Helper Method - forEach
 
 const names = ['Hal', 'Bob', 'Ned', 'Kal', 'Mel', 'Bill', 'Sal', 'Dave', 'Milton'];
-const values = [3, 7, 2, 8, 1, 8, 4, 8, 9, 2, 7, 3, 2, 8, 5, 4, 4];
+const values = [3, 7, 2, 8, 1, 8, 4, 8, 9, 2, 7, 3, 2, 8, 5, 4, 4, 5, 7];
 let sum = 0;
 
 // for (var i = 0; i < names.length; i++) {
